@@ -11,7 +11,7 @@ $url = 'http://fantasy.premierleague.com/web/api/elements/';
 #$lastplayer=
 
 // set range of players to look through - currently there are 675
-$players=range(1,675);
+$players=range(1,691);
 #$players=range(1,$lastplayer);
 
 // scrape page for each player
