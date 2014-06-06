@@ -55,6 +55,7 @@ foreach($players as $player)
         'cost_now' => strval($obj->now_cost),
         'form' => strval($obj->form),
         'sel_by' => strval($obj->selected_by),
+        'shirt_mobile_image_url' => strval($obj->shirt_mobile_image_url)
        # 'fitness' => strval($ranking)
     );
     
